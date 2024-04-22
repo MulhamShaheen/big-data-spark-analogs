@@ -8,3 +8,8 @@
 ## Материалы
 - [Презентация](https://docs.google.com/presentation/d/1mtn4UiZXqoUDQGw4wl9Ji5GhtTZ7A8RLKWe-s9Awj2E/edit?usp=sharing)
 - [Запись доклада](https://disk.yandex.ru/i/oqFiJYbP5pYT7Q)
+
+## Команда
+- [Лакиза Александр](https://t.me/alexlakiza)
+- [Тайчинов Евгений](https://t.me/holy_guacamole0)
+- [Шахин Мульхам](https://t.me/MulhamSh)
